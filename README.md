@@ -10,7 +10,7 @@ Each folder includes a separate mini-project from layout challenges (e.g. Fronte
 |--------------|-------------|-----------|
 | `qr-code-component` | Simple QR card with centered layout | <a href="./qr-code-component-main">Demo<a/>|
 | `social-links-profile-main` | Profile card with social links | [Demo](https://cartnix.github.io/FrontAcademy/qr-code-component-main/)|
-| `social-card` | Profile card with more elements | [Demo](https://cartnix.github.io/FrontAcademy/blog-preview-card-main/)|
+| `social-card` | Profile card with more elements | [Demo]([https://cartnix.github.io/FrontAcademy/blog-preview-card-main/](https://github.com/Cartnix/FrontAcademy/tree/main/blog-preview-card-main/blog-preview-card-main))|
 
 ## 🚀 Tech Stack
 
