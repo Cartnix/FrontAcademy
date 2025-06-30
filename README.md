@@ -9,7 +9,7 @@ Each folder includes a separate mini-project from layout challenges (e.g. Fronte
 | Project Name | Description | Live Demo |
 |--------------|-------------|-----------|
 | `qr-code-component` | Simple QR card with centered layout | <a href="./qr-code-component-main">Demo<a/>|
-| `social-links-profile-main` | Profile card with social links | <a href="./social-links-profile-main">Demo</a>|
+| `social-links-profile-main` | Profile card with social links | [Demo](https://cartnix.github.io/FrontAcademy/qr-code-component-main/)|
 
 ## 🚀 Tech Stack
 
