@@ -12,7 +12,7 @@ Each folder includes a separate mini-project from layout challenges (e.g. Fronte
 | `social-links-profile-main` | Profile card with social links | [Demo](https://cartnix.github.io/FrontAcademy/social-links-profile-main/)|
 | `social-card` | Profile card with more elements | [Demo](https://cartnix.github.io/FrontAcademy/blog-preview-card-main/)|
 | `recipe-landing` | A little landing about recipe | [Demo](https://cartnix.github.io/FrontAcademy/recipe-page-main/)|
-| `Shop-card` | Addaptive card | [Demo](https://cartnix.github.io/product-preview-card-component-main/)|
+| `Shop-card` | Addaptive card | [Demo](https://cartnix.github.io/FrontAcademy/product-preview-card-component-main/)|
 
 
 
